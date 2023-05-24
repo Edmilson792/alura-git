@@ -1,0 +1,1 @@
+http://devhints.io/git-log - Site de configurações do Git (vários filtros de pesquisa pelo terminal)
